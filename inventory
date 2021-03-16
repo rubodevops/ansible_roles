@@ -1,0 +1,2 @@
+[webservers] 
+10.0.2.9 ansible_user=devops1 ansible_ssh_private_key_file=/home/rubo/.ssh/id_rsa
